@@ -33,7 +33,7 @@ export default {
                 .addStringOption(option =>
                     option
                         .setName("message")
-                        .setDescription("Custom verification message")
+                        .setDescription("Custome verification message")
                         .setMaxLength(2000)
                         .setRequired(false)
                 )
